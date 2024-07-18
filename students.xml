@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+   <student>
+      <name>Abdul Rafay</name>
+      <gender>Male</gender>
+      <email>rafaylakhani555@gmail.com</email>
+   </student>
+   <student>
+      <name>Hussain Khanani</name>
+      <gender>Male</gender>
+      <email>khananihussain41@gmail.com</email>
+   </student>
+   <student>
+      <name>Muhammad Rayan</name>
+      <gender>Male</gender>
+      <email>rayanshahid786123@gmail.com</email>
+   </student>
+   <student>
+      <name>Ahsan Saqib</name>
+      <gender>Male</gender>
+      <email>ahsansaqib600@gmail.com</email>
+   </student>
+   <student>
+      <name>Aazib Khan</name>
+      <gender>Male</gender>
+      <email>sumairahmed274@gmail.com</email>
+   </student>
+   <student>
+      <name>Azlan Jaffrani</name>
+      <gender>Male</gender>
+      <email>azlanjaffrani69@gmail.com</email>
+   </student>
+   <student>
+      <name>Syed Sami Ali</name>
+      <gender>Male</gender>
+      <email>sa1960676@gmail.com</email>
+   </student>
+</students>
