@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
 <students>
+   <student>
+      <name>Syeda Ansharah</name>
+      <gender>Female</gender>
+      <email>syedaansharah11@gmail.com</email>
+   </student>
    <student>
       <name>Abdul Rafay</name>
       <gender>Male</gender>
